@@ -1,4 +1,4 @@
-# Semáforo Educacional 🚦
+# Semáforo Educacional 🚦🚦
 Projeto simples de Arduino focado no ensino introdutório de robótica e eletrônica básica para crianças e jovens.
 
 ## 🎯 Objetivo Didático
